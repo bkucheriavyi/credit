@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{034D7698-7D6E-481E-AB7A-61A70F2F4DB0}|Default">
+  <MonoDevelop.Ide.ItemProperties.credit.strat PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ModelGenerator.cs">
+    <Files>
+      <File FileName="Program.cs" Line="11" Column="38" />
+      <File FileName="Model/SimulationModel.cs" Line="8" Column="2" />
+      <File FileName="ModelGenerator.cs" Line="21" Column="15" />
+      <File FileName="Simulator.cs" Line="10" Column="88" />
+      <File FileName="Model/SimulationResult.cs" Line="5" Column="18" />
+      <File FileName="ModelSettings.cs" Line="3" Column="20" />
+      <File FileName="Model/Payment.cs" Line="3" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/bkucheriavyi/Desktop/Projects/credit.strat/Simulator.cs" relfile="Simulator.cs" line="19" column="54" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

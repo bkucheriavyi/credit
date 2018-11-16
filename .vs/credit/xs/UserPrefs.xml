@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{D9CF5FC0-BC98-4F0C-9FB1-4DAF90E2C720}|Default">
+  <MonoDevelop.Ide.ItemProperties.credit.strat PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="benchmarks/Program.cs">
+    <Files>
+      <File FileName="credit.strat/Program.cs" Line="35" Column="1" />
+      <File FileName="credit.strat/Simulator.cs" Line="9" Column="10" />
+      <File FileName="credit.strat/ModelGenerator.cs" Line="37" Column="10" />
+      <File FileName="benchmarks/BenchmarkDotNet.Artifacts/results/BuildPlots.R" Line="21" Column="3" />
+      <File FileName="credit.strat.tests/UnitTest1.cs" Line="17" Column="10" />
+      <File FileName="benchmarks/Program.cs" Line="30" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

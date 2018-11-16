@@ -1,0 +1,134 @@
+{
+   "Title":"benchmarks.MyBenchmark",
+   "HostEnvironmentInfo":{
+      "BenchmarkDotNetCaption":"BenchmarkDotNet",
+      "BenchmarkDotNetVersion":"0.11.2",
+      "OsVersion":"macOS Mojave 10.14.1 (18B75) [Darwin 18.2.0]",
+      "ProcessorName":"Intel Core i5-5257U CPU 2.70GHz (Broadwell)",
+      "PhysicalProcessorCount":1,
+      "PhysicalCoreCount":2,
+      "LogicalCoreCount":4,
+      "RuntimeVersion":".NET Core 2.1.2 (CoreCLR 4.6.26628.05, CoreFX 4.6.26629.01)",
+      "Architecture":"64bit",
+      "HasAttachedDebugger":false,
+      "HasRyuJit":true,
+      "Configuration":"RELEASE",
+      "JitModules":"",
+      "DotNetCliVersion":"2.1.302",
+      "ChronometerFrequency":{
+         "Hertz":1000000000
+      },
+      "HardwareTimerKind":"Unknown"
+   },
+   "Benchmarks":[
+      {
+         "DisplayInfo":"MyBenchmark.Bench: MediumRun(IterationCount=15, LaunchCount=2, WarmupCount=10) [amount=5500, fee=10, minimum=4]",
+         "Namespace":"benchmarks",
+         "Type":"MyBenchmark",
+         "Method":"Bench",
+         "MethodTitle":"Bench",
+         "Parameters":"amount=5500&fee=10&minimum=4",
+         "FullName":"benchmarks.MyBenchmark.Bench(amount: 5500, fee: 10, minimum: 4)",
+         "Statistics":{
+            "N":28,
+            "Min":14660.663859100341,
+            "LowerFence":14153.264109268186,
+            "Q1":14730.388895721435,
+            "Median":15010.890706481934,
+            "Mean":15017.112986324855,
+            "Q3":15115.138753356934,
+            "UpperFence":15692.263539810183,
+            "Max":15981.105550231934,
+            "InterquartileRange":384.74985763549921,
+            "LowerOutliers":[
+               
+            ],
+            "UpperOutliers":[
+               15715.999349060059,15981.105550231934
+            ],
+            "AllOutliers":[
+               15715.999349060059,15981.105550231934
+            ],
+            "StandardError":65.186561548548653,
+            "Variance":118980.05858263625,
+            "StandardDeviation":344.9348613617305,
+            "Skewness":1.1507175828047913,
+            "Kurtosis":3.5827602348973735,
+            "ConfidenceInterval":{
+               "N":28,
+               "Mean":15017.112986324855,
+               "StandardError":65.186561548548653,
+               "Level":12,
+               "Margin":240.51181716798871,
+               "Lower":14776.601169156867,
+               "Upper":15257.624803492843
+            },
+            "Percentiles":{
+               "P0":14660.663859100341,
+               "P25":14738.5714213562,
+               "P50":15010.890706481934,
+               "P67":15051.826985778809,
+               "P80":15154.994710388182,
+               "P85":15261.517842712401,
+               "P90":15585.417684020998,
+               "P95":15675.731404724122,
+               "P100":15981.105550231934
+            }
+         }
+      },{
+         "DisplayInfo":"MyBenchmark.Bench: ShortRun(IterationCount=3, LaunchCount=1, WarmupCount=3) [amount=5500, fee=10, minimum=4]",
+         "Namespace":"benchmarks",
+         "Type":"MyBenchmark",
+         "Method":"Bench",
+         "MethodTitle":"Bench",
+         "Parameters":"amount=5500&fee=10&minimum=4",
+         "FullName":"benchmarks.MyBenchmark.Bench(amount: 5500, fee: 10, minimum: 4)",
+         "Statistics":{
+            "N":3,
+            "Min":15309.996541290284,
+            "LowerFence":13460.287984161379,
+            "Q1":15309.996541290284,
+            "Median":15485.533650665284,
+            "Mean":15779.555257110595,
+            "Q3":16543.13557937622,
+            "UpperFence":18392.844136505122,
+            "Max":16543.13557937622,
+            "InterquartileRange":1233.1390380859357,
+            "LowerOutliers":[
+               
+            ],
+            "UpperOutliers":[
+               
+            ],
+            "AllOutliers":[
+               
+            ],
+            "StandardError":385.138287114896,
+            "Variance":444994.50060538808,
+            "StandardDeviation":667.07908122304968,
+            "Skewness":0.35513372318943,
+            "Kurtosis":0.66666666666666918,
+            "ConfidenceInterval":{
+               "N":3,
+               "Mean":15779.555257110595,
+               "StandardError":385.138287114896,
+               "Level":12,
+               "Margin":12170.005754011738,
+               "Lower":3609.5495030988568,
+               "Upper":27949.561011122332
+            },
+            "Percentiles":{
+               "P0":15309.996541290284,
+               "P25":15397.765095977784,
+               "P50":15485.533650665284,
+               "P67":15845.118306427003,
+               "P80":16120.094807891845,
+               "P85":16225.855000762938,
+               "P90":16331.615193634032,
+               "P95":16437.375386505126,
+               "P100":16543.13557937622
+            }
+         }
+      }
+   ]
+}

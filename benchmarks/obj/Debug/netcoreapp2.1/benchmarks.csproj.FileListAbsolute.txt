@@ -1,0 +1,14 @@
+/Users/bkucheriavyi/Desktop/Projects/credit/benchmarks/bin/Debug/netcoreapp2.1/benchmarks.deps.json
+/Users/bkucheriavyi/Desktop/Projects/credit/benchmarks/bin/Debug/netcoreapp2.1/benchmarks.runtimeconfig.json
+/Users/bkucheriavyi/Desktop/Projects/credit/benchmarks/bin/Debug/netcoreapp2.1/benchmarks.runtimeconfig.dev.json
+/Users/bkucheriavyi/Desktop/Projects/credit/benchmarks/bin/Debug/netcoreapp2.1/benchmarks.dll
+/Users/bkucheriavyi/Desktop/Projects/credit/benchmarks/bin/Debug/netcoreapp2.1/benchmarks.pdb
+/Users/bkucheriavyi/Desktop/Projects/credit/benchmarks/bin/Debug/netcoreapp2.1/credit.strat.dll
+/Users/bkucheriavyi/Desktop/Projects/credit/benchmarks/bin/Debug/netcoreapp2.1/credit.strat.pdb
+/Users/bkucheriavyi/Desktop/Projects/credit/benchmarks/obj/Debug/netcoreapp2.1/benchmarks.csprojAssemblyReference.cache
+/Users/bkucheriavyi/Desktop/Projects/credit/benchmarks/obj/Debug/netcoreapp2.1/benchmarks.csproj.CoreCompileInputs.cache
+/Users/bkucheriavyi/Desktop/Projects/credit/benchmarks/obj/Debug/netcoreapp2.1/benchmarks.AssemblyInfoInputs.cache
+/Users/bkucheriavyi/Desktop/Projects/credit/benchmarks/obj/Debug/netcoreapp2.1/benchmarks.AssemblyInfo.cs
+/Users/bkucheriavyi/Desktop/Projects/credit/benchmarks/obj/Debug/netcoreapp2.1/benchmarks.csproj.CopyComplete
+/Users/bkucheriavyi/Desktop/Projects/credit/benchmarks/obj/Debug/netcoreapp2.1/benchmarks.dll
+/Users/bkucheriavyi/Desktop/Projects/credit/benchmarks/obj/Debug/netcoreapp2.1/benchmarks.pdb
